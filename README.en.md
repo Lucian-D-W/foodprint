@@ -52,12 +52,12 @@ Filter photos by restaurant, open one, and choose “在地图中查看” (View
 
 For **Windows x64**. Current version: **0.1.0**.
 
-1. **Install and open.** Run `随食记_0.1.0_x64-setup.exe`, follow the installer, then open “随食记” from the Start menu.
+1. **Download and install.** [Download the Windows installer (EXE)](https://github.com/Lucian-D-W/foodprint/releases/download/v0.1.0/foodprint_0.1.0_x64-setup.exe), follow the installer, then open “随食记” from the Start menu.
 2. **Find the place you want to remember.** Click “+” in the map sidebar to search for a location, then choose “缓存此处周边” (Cache nearby). You can view the downloaded area offline afterward.
 3. **Record your first meal.** Right-click the map to add a restaurant. Open it, add a meal entry, fill in the time and your impressions, then attach photos or videos.
 4. **Keep a backup.** Export a backup from Settings and save it somewhere you can find again.
 
-Your dining records and media stay on your computer; location searches and new map downloads use the internet. See [data and backups](DATA_SAFETY.md) for more details, or [development and builds](docs/development.md) to run from source.
+Other installers and checksums are available on the [release page](https://github.com/Lucian-D-W/foodprint/releases/tag/v0.1.0). Your dining records and media stay on your computer; location searches and new map downloads use the internet. See [data and backups](DATA_SAFETY.md) for more details, or [development and builds](docs/development.md) to run from source.
 
 <a id="why"></a>
 
