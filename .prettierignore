@@ -1,0 +1,13 @@
+dist/
+node_modules/
+src-tauri/gen/
+src-tauri/target/
+resources/
+.shujuan/
+.agents/
+.codex/
+AGENTS.md
+migrations/
+scripts/
+docs/foodmap-v1-stage0-*.md
+src/styles/*.ts

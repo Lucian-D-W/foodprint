@@ -1,0 +1,10 @@
+pub mod assets;
+pub mod bootstrap;
+pub mod cleanup;
+pub mod food_log;
+pub mod local_server;
+pub mod map_centers;
+pub mod media;
+pub mod offline_regions;
+pub mod restaurant;
+pub mod stage8;

@@ -1,0 +1,6 @@
+{
+  "entry": ["scripts/**/*.mjs"],
+  "project": ["src/**/*.{ts,tsx}", "scripts/**/*.mjs", "*.config.{js,ts}"],
+  // Used by scripts/prepare-map-package.ps1 and Vite's explicit minify setting.
+  "ignoreDependencies": ["esbuild"],
+}

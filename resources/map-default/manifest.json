@@ -1,0 +1,295 @@
+﻿{
+    "schemaVersion":  1,
+    "packageId":  "personal-default",
+    "packageVersion":  "2026.09.07.1",
+    "releaseStatus":  "PASS",
+    "blockers":  [
+
+                 ],
+    "pmtilesSpecVersion":  3,
+    "basemapSchema":  "OpenMapTiles 3.16.0 via Planetiler 0.10.2",
+    "tiles":  "basemap.pmtiles",
+    "style":  "style.json",
+    "bounds":  [
+                   113.3,
+                   23.11,
+                   113.33,
+                   23.135
+               ],
+    "center":  [
+                   113.3158,
+                   23.122,
+                   15.15
+               ],
+    "minZoom":  0,
+    "maxZoom":  16,
+    "targetMaxZoom":  16,
+    "pitch":  0,
+    "bearing":  0,
+    "sourceId":  "openmaptiles",
+    "sourceLayers":  [
+                         "building",
+                         "housenumber",
+                         "landcover",
+                         "landuse",
+                         "park",
+                         "place",
+                         "poi",
+                         "transportation",
+                         "transportation_name",
+                         "water",
+                         "water_name",
+                         "waterway"
+                     ],
+    "attribution":  "OpenFreeMap · © OpenMapTiles · © OpenStreetMap contributors",
+    "sourceCreatedAt":  "2026-08-30",
+    "sourceDescription":  "Bounded OpenStreetMap API extract for the frozen Zhujiang New Town bounds, rendered with the OpenMapTiles 3.16.0 Planetiler profile at maxzoom 16 with POI and house-number details for the closest street view; official water polygons, lake centerlines, and Natural Earth inputs are recorded outside the release package.",
+    "sourceUrl":  "https://api.openstreetmap.org/api/0.6/map?bbox=113.30000,23.11000,113.33000,23.13500",
+    "sourceTileTemplate":  null,
+    "sourceAccessedAt":  "2026-08-30T15:51:17Z",
+    "sourceBuildId":  "osm-api-20260830-zhujiang-new-town",
+    "buildCommand":  "java.exe -Xmx8g -jar planetiler-0.10.2.jar --force --osm_path inputs/osm-api-20260830-zhujiang-new-town.osm.pbf --bounds 113.3,23.11,113.33,23.135 --minzoom 0 --maxzoom 16 --render_maxzoom 16 --only-layers building,housenumber,landcover,landuse,park,place,poi,transportation,transportation_name,water,water_name,waterway --download=false --output staging/basemap-high-detail.pmtiles",
+    "pmtilesCliVersion":  "pmtiles 1.31.2, commit a3e4951ea6a0477b784c27c1dcbfd9c130878c5a, built at 2026-07-22T18:59:03Z",
+    "pmtilesJsVersion":  "4.5.0",
+    "pmtilesHeader":  {
+                          "tile_compression":  "gzip",
+                          "tile_type":  "mvt",
+                          "minzoom":  0,
+                          "maxzoom":  16,
+                          "bounds":  [
+                                         113.3,
+                                         23.11,
+                                         113.33,
+                                         23.135
+                                     ],
+                          "center":  [
+                                         113.315,
+                                         23.1225,
+                                         14
+                                     ]
+                      },
+    "vectorTileMetadata":  {
+                               "vector_layers":  [
+                                                     {
+                                                         "id":  "building",
+                                                         "fields":  {
+                                                                        "colour":  "String",
+                                                                        "render_height":  "Number",
+                                                                        "render_min_height":  "Number"
+                                                                    },
+                                                         "minzoom":  13,
+                                                         "maxzoom":  16
+                                                     },
+                                                     {
+                                                         "id":  "housenumber",
+                                                         "fields":  {
+                                                                        "housenumber":  "String"
+                                                                    },
+                                                         "minzoom":  14,
+                                                         "maxzoom":  16
+                                                     },
+                                                     {
+                                                         "id":  "landcover",
+                                                         "fields":  {
+                                                                        "class":  "String",
+                                                                        "subclass":  "String"
+                                                                    },
+                                                         "minzoom":  12,
+                                                         "maxzoom":  16
+                                                     },
+                                                     {
+                                                         "id":  "landuse",
+                                                         "fields":  {
+                                                                        "class":  "String"
+                                                                    },
+                                                         "minzoom":  4,
+                                                         "maxzoom":  16
+                                                     },
+                                                     {
+                                                         "id":  "place",
+                                                         "fields":  {
+                                                                        "class":  "String",
+                                                                        "name":  "String",
+                                                                        "name:en":  "String",
+                                                                        "name:latin":  "String",
+                                                                        "name:nonlatin":  "String",
+                                                                        "name:vi":  "String",
+                                                                        "name:zh":  "String",
+                                                                        "name:zh-Hans":  "String",
+                                                                        "name:zh-Hant":  "String",
+                                                                        "name_de":  "String",
+                                                                        "name_en":  "String",
+                                                                        "name_int":  "String",
+                                                                        "rank":  "Number"
+                                                                    },
+                                                         "minzoom":  10,
+                                                         "maxzoom":  16
+                                                     },
+                                                     {
+                                                         "id":  "poi",
+                                                         "fields":  {
+                                                                        "class":  "String",
+                                                                        "indoor":  "Number",
+                                                                        "layer":  "Number",
+                                                                        "level":  "Number",
+                                                                        "name":  "String",
+                                                                        "name:ar":  "String",
+                                                                        "name:de":  "String",
+                                                                        "name:en":  "String",
+                                                                        "name:es":  "String",
+                                                                        "name:fr":  "String",
+                                                                        "name:it":  "String",
+                                                                        "name:ja":  "String",
+                                                                        "name:latin":  "String",
+                                                                        "name:nl":  "String",
+                                                                        "name:nonlatin":  "String",
+                                                                        "name:pt":  "String",
+                                                                        "name:ru":  "String",
+                                                                        "name:tr":  "String",
+                                                                        "name:vi":  "String",
+                                                                        "name:zh":  "String",
+                                                                        "name:zh-Hans":  "String",
+                                                                        "name:zh-Hant":  "String",
+                                                                        "name_de":  "String",
+                                                                        "name_en":  "String",
+                                                                        "name_int":  "String",
+                                                                        "rank":  "Number",
+                                                                        "subclass":  "String"
+                                                                    },
+                                                         "minzoom":  12,
+                                                         "maxzoom":  16
+                                                     },
+                                                     {
+                                                         "id":  "transportation",
+                                                         "fields":  {
+                                                                        "access":  "String",
+                                                                        "bicycle":  "String",
+                                                                        "brunnel":  "String",
+                                                                        "class":  "String",
+                                                                        "foot":  "String",
+                                                                        "horse":  "String",
+                                                                        "indoor":  "Number",
+                                                                        "layer":  "Number",
+                                                                        "level":  "Number",
+                                                                        "oneway":  "Number",
+                                                                        "ramp":  "Number",
+                                                                        "service":  "String",
+                                                                        "subclass":  "String",
+                                                                        "surface":  "String"
+                                                                    },
+                                                         "minzoom":  5,
+                                                         "maxzoom":  16
+                                                     },
+                                                     {
+                                                         "id":  "transportation_name",
+                                                         "fields":  {
+                                                                        "class":  "String",
+                                                                        "layer":  "Number",
+                                                                        "level":  "Number",
+                                                                        "name":  "String",
+                                                                        "name:en":  "String",
+                                                                        "name:latin":  "String",
+                                                                        "name:nonlatin":  "String",
+                                                                        "name:zh":  "String",
+                                                                        "name:zh-Hans":  "String",
+                                                                        "name_de":  "String",
+                                                                        "name_en":  "String",
+                                                                        "name_int":  "String",
+                                                                        "network":  "String",
+                                                                        "ref":  "String",
+                                                                        "ref_length":  "Number",
+                                                                        "route_1_colour":  "String",
+                                                                        "route_1_name":  "String",
+                                                                        "route_1_network":  "String",
+                                                                        "route_1_ref":  "String",
+                                                                        "route_2_colour":  "String",
+                                                                        "route_2_name":  "String",
+                                                                        "route_2_network":  "String",
+                                                                        "route_2_ref":  "String",
+                                                                        "subclass":  "String"
+                                                                    },
+                                                         "minzoom":  10,
+                                                         "maxzoom":  16
+                                                     },
+                                                     {
+                                                         "id":  "water",
+                                                         "fields":  {
+                                                                        "class":  "String",
+                                                                        "id":  "Number",
+                                                                        "intermittent":  "Number"
+                                                                    },
+                                                         "minzoom":  0,
+                                                         "maxzoom":  16
+                                                     },
+                                                     {
+                                                         "id":  "waterway",
+                                                         "fields":  {
+                                                                        "brunnel":  "String",
+                                                                        "class":  "String",
+                                                                        "intermittent":  "Number",
+                                                                        "name":  "String",
+                                                                        "name:cs":  "String",
+                                                                        "name:en":  "String",
+                                                                        "name:eo":  "String",
+                                                                        "name:latin":  "String",
+                                                                        "name:nonlatin":  "String",
+                                                                        "name:pt":  "String",
+                                                                        "name:zh":  "String",
+                                                                        "name_de":  "String",
+                                                                        "name_en":  "String",
+                                                                        "name_int":  "String"
+                                                                    },
+                                                         "minzoom":  4,
+                                                         "maxzoom":  16
+                                                     }
+                                                 ],
+                               "attribution":  "\u003ca href=\"https://www.openmaptiles.org/\" target=\"_blank\"\u003e\u0026copy; OpenMapTiles\u003c/a\u003e \u003ca href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\"\u003e\u0026copy; OpenStreetMap contributors\u003c/a\u003e",
+                               "description":  "A tileset showcasing all layers in OpenMapTiles. https://openmaptiles.org",
+                               "name":  "OpenMapTiles",
+                               "planetiler:buildtime":  "2026-03-28T14:35:36.815Z",
+                               "planetiler:githash":  "0e5588c4a6e8c29a270a33afe8df62027d889604",
+                               "planetiler:osm:osmosisreplicationseq":  "0",
+                               "planetiler:osm:osmosisreplicationtime":  "1970-01-01T00:00:00Z",
+                               "planetiler:osm:osmosisreplicationurl":  "",
+                               "planetiler:version":  "0.10.2",
+                               "type":  "baselayer",
+                               "version":  "3.16.0"
+                           },
+    "glyphs":  {
+                   "template":  "fonts/{fontstack}/{range}.pbf",
+                   "fontStacks":  [
+                                      "Noto Sans Regular",
+                                      "Noto Sans Bold",
+                                      "Noto Sans Italic"
+                                  ],
+                   "ranges":  [
+                                  "0-255"
+                              ],
+                   "coverage":  "Bundled Latin-1 range for all frozen stacks; CJK is intentionally supplied at runtime by MapLibre localIdeographFontFamily per the stage-0 contract.",
+                   "source":  "https://tiles.openfreemap.org/fonts/{fontstack}/{range}.pbf"
+               },
+    "sprite":  null,
+    "textures":  [
+
+                 ],
+    "sha256":  {
+                   "basemap.pmtiles":  "6529337e482ede9d814fe6904dc1e852f8d30755d261807e8054d54bfc9cad67",
+                   "style.json":  "a82ae34acdafb1542302fb0ce4163c15ae48574ffc175563ae257c60cd9ec6da",
+                   "fonts/Noto Sans Regular/0-255.pbf":  "ef1f38a3f1978591e846e9eaddf8a54f7047f546fc6aaed7872cc53151a5de78",
+                   "fonts/Noto Sans Bold/0-255.pbf":  "f60ce4cb899455c2203bd8293b550394ade53ffce8032bf9cc7f59255e49259c",
+                   "fonts/Noto Sans Italic/0-255.pbf":  "ae9c8894b4d2b6297da76a2e875685046f1f037f1a571ae006160a5540406086"
+               },
+    "provenance":  {
+                       "tileProvider":  "OpenStreetMap via OpenMapTiles Planetiler",
+                       "providerProject":  "https://github.com/openmaptiles/planetiler-openmaptiles",
+                       "providerLicense":  "OpenMapTiles schema/cartography CC BY 4.0; OpenStreetMap data ODbL",
+                       "providerTerms":  "https://www.openstreetmap.org/copyright",
+                       "pmtilesRelease":  "https://github.com/protomaps/go-pmtiles/releases/tag/v1.31.2",
+                       "pmtilesBinarySha256":  "5d6fe5b31e5626fe894c150456558100faa0ff6b6346af7a3158d503741d13db",
+                       "pmtilesJsSource":  "https://unpkg.com/pmtiles@4.5.0/dist/pmtiles.js",
+                       "pmtilesJsSha256":  "caf981bc46f6327ee7e65d5dc964d89d38a69f60edca2bd4c5c890c21b554c6c",
+                       "maplibreGlVersion":  "5.24.0",
+                       "preparedAt":  "2026-08-30T16:02:19.5774920Z",
+                       "downloadedTileCount":  0
+                   }
+}

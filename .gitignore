@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.shujuan/
+.DS_Store
+coverage/
+src-tauri/target/
+src-tauri/gen/
+
+# Regenerable inventory containing machine-local Cargo cache paths.
+/docs/artifacts/stage9-cargo-metadata-windows.json

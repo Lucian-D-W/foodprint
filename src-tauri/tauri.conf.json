@@ -1,0 +1,59 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "随食记",
+  "version": "0.1.0",
+  "identifier": "com.dean.foodmap",
+  "build": {
+    "beforeDevCommand": "corepack pnpm dev",
+    "beforeBuildCommand": "corepack pnpm build",
+    "devUrl": "http://localhost:5173",
+    "frontendDist": "../dist"
+  },
+  "app": {
+    "withGlobalTauri": false,
+    "windows": [
+      {
+        "label": "main",
+        "title": "随食记 · foodprint",
+        "width": 1280,
+        "height": 800,
+        "minWidth": 900,
+        "minHeight": 620,
+        "resizable": true,
+        "fullscreen": false,
+        "useHttpsScheme": false
+      }
+    ],
+    "security": {
+      "capabilities": ["main"],
+      "csp": "default-src 'self'; connect-src 'self' ipc: http://ipc.localhost http://localhost:* http://127.0.0.1:* ws://localhost:* ws://127.0.0.1:*; img-src 'self' asset: http://asset.localhost http://127.0.0.1:* data: blob:; style-src 'self' 'unsafe-inline'; font-src 'self' http://127.0.0.1:* data:; worker-src 'self' blob:"
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": ["msi", "nsis"],
+    "publisher": "Lucian W. (lucian-d-w)",
+    "copyright": "Copyright (C) 2026 Lucian W. (lucian-d-w)",
+    "license": "GPL-3.0-only",
+    "licenseFile": "../LICENSE",
+    "shortDescription": "随食记 · foodprint — 本地优先的个人餐饮日记与地图",
+    "windows": {
+      "wix": {
+        "upgradeCode": "81b2ca5c-bf6a-5992-bdb4-b0cf8b4bffc9",
+        "language": "zh-CN"
+      },
+      "nsis": {
+        "installMode": "currentUser",
+        "languages": ["SimpChinese", "English"]
+      }
+    },
+    "icon": ["icons/icon.ico"],
+    "resources": {
+      "../LICENSE": "LICENSE",
+      "../THIRD_PARTY_NOTICES.md": "THIRD_PARTY_NOTICES.md",
+      "../resources/licenses": "resources/licenses",
+      "../resources/map-default": "resources/map-default",
+      "../resources/food-icons": "resources/food-icons"
+    }
+  }
+}

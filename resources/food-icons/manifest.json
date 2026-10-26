@@ -1,0 +1,1058 @@
+{
+  "schemaVersion": 1,
+  "assetVersion": "2026.09.01.1",
+  "fallbackIconKey": "snacks.shop.01",
+  "cuisines": [
+    {
+      "key": "dimsum_dumpling",
+      "label": "点心饺子",
+      "sortOrder": 10,
+      "icons": [
+        "dimsum_dumpling.shop.01",
+        "dimsum_dumpling.shop.02",
+        "dimsum_dumpling.shop.03"
+      ]
+    },
+    {
+      "key": "burger",
+      "label": "汉堡",
+      "sortOrder": 20,
+      "icons": [
+        "burger.shop.01",
+        "burger.shop.02",
+        "burger.shop.03"
+      ]
+    },
+    {
+      "key": "pasta_pizza",
+      "label": "意面披萨",
+      "sortOrder": 30,
+      "icons": [
+        "pasta_pizza.shop.01",
+        "pasta_pizza.shop.02",
+        "pasta_pizza.shop.03"
+      ]
+    },
+    {
+      "key": "buns",
+      "label": "包子",
+      "sortOrder": 40,
+      "icons": [
+        "buns.shop.01",
+        "buns.shop.02",
+        "buns.shop.03"
+      ]
+    },
+    {
+      "key": "fast_meal",
+      "label": "快餐便当",
+      "sortOrder": 50,
+      "icons": [
+        "fast_meal.shop.01",
+        "fast_meal.shop.02",
+        "fast_meal.shop.03"
+      ]
+    },
+    {
+      "key": "rice_noodles",
+      "label": "米粉面馆",
+      "sortOrder": 60,
+      "icons": [
+        "rice_noodles.shop.01",
+        "rice_noodles.shop.02",
+        "rice_noodles.shop.03"
+      ]
+    },
+    {
+      "key": "malatang",
+      "label": "麻辣烫",
+      "sortOrder": 70,
+      "icons": [
+        "malatang.shop.01",
+        "malatang.shop.02",
+        "malatang.shop.03"
+      ]
+    },
+    {
+      "key": "sichuan_hunan",
+      "label": "川湘菜馆",
+      "sortOrder": 80,
+      "icons": [
+        "sichuan_hunan.shop.01",
+        "sichuan_hunan.shop.02",
+        "sichuan_hunan.shop.03"
+      ]
+    },
+    {
+      "key": "cantonese",
+      "label": "粤菜",
+      "sortOrder": 90,
+      "icons": [
+        "cantonese.shop.01",
+        "cantonese.shop.02",
+        "cantonese.shop.03"
+      ]
+    },
+    {
+      "key": "jinghu_lu",
+      "label": "京沪鲁菜",
+      "sortOrder": 100,
+      "icons": [
+        "jinghu_lu.shop.01",
+        "jinghu_lu.shop.02",
+        "jinghu_lu.shop.03"
+      ]
+    },
+    {
+      "key": "fried_chicken",
+      "label": "炸鸡",
+      "sortOrder": 110,
+      "icons": [
+        "fried_chicken.shop.01",
+        "fried_chicken.shop.02",
+        "fried_chicken.shop.03"
+      ]
+    },
+    {
+      "key": "snacks",
+      "label": "小吃",
+      "sortOrder": 120,
+      "icons": [
+        "snacks.shop.01",
+        "snacks.shop.02",
+        "snacks.shop.03"
+      ]
+    },
+    {
+      "key": "braised_duck",
+      "label": "鸭脖卤味",
+      "sortOrder": 130,
+      "icons": [
+        "braised_duck.shop.01",
+        "braised_duck.shop.02",
+        "braised_duck.shop.03"
+      ]
+    },
+    {
+      "key": "japanese",
+      "label": "日式料理",
+      "sortOrder": 140,
+      "icons": [
+        "japanese.shop.01",
+        "japanese.shop.02",
+        "japanese.shop.03"
+      ]
+    },
+    {
+      "key": "korean",
+      "label": "韩式料理",
+      "sortOrder": 150,
+      "icons": [
+        "korean.shop.01",
+        "korean.shop.02",
+        "korean.shop.03"
+      ]
+    },
+    {
+      "key": "dry_pot",
+      "label": "香锅",
+      "sortOrder": 160,
+      "icons": [
+        "dry_pot.shop.01",
+        "dry_pot.shop.02",
+        "dry_pot.shop.03"
+      ]
+    },
+    {
+      "key": "hotpot",
+      "label": "火锅",
+      "sortOrder": 170,
+      "icons": [
+        "hotpot.shop.01",
+        "hotpot.shop.02",
+        "hotpot.shop.03"
+      ]
+    },
+    {
+      "key": "lobster_bbq",
+      "label": "龙虾烧烤",
+      "sortOrder": 180,
+      "icons": [
+        "lobster_bbq.shop.01",
+        "lobster_bbq.shop.02",
+        "lobster_bbq.shop.03"
+      ]
+    },
+    {
+      "key": "salad",
+      "label": "沙拉",
+      "sortOrder": 190,
+      "icons": [
+        "salad.shop.01",
+        "salad.shop.02",
+        "salad.shop.03"
+      ]
+    },
+    {
+      "key": "milk_tea_juice",
+      "label": "奶茶果汁",
+      "sortOrder": 200,
+      "icons": [
+        "milk_tea_juice.shop.01",
+        "milk_tea_juice.shop.02",
+        "milk_tea_juice.shop.03"
+      ]
+    },
+    {
+      "key": "coffee",
+      "label": "咖啡",
+      "sortOrder": 210,
+      "icons": [
+        "coffee.shop.01",
+        "coffee.shop.02",
+        "coffee.shop.03"
+      ]
+    },
+    {
+      "key": "bakery_pastry",
+      "label": "面包糕点",
+      "sortOrder": 220,
+      "icons": [
+        "bakery_pastry.shop.01",
+        "bakery_pastry.shop.02",
+        "bakery_pastry.shop.03"
+      ]
+    },
+    {
+      "key": "dessert",
+      "label": "甜品",
+      "sortOrder": 230,
+      "icons": [
+        "dessert.shop.01",
+        "dessert.shop.02",
+        "dessert.shop.03"
+      ]
+    },
+    {
+      "key": "south_asian",
+      "label": "南亚菜系",
+      "sortOrder": 240,
+      "icons": [
+        "south_asian.shop.01",
+        "south_asian.shop.02",
+        "south_asian.shop.03"
+      ]
+    },
+    {
+      "key": "southeast_asian",
+      "label": "东南亚菜系",
+      "sortOrder": 999,
+      "icons": [
+        "southeast_asian.shop.01",
+        "southeast_asian.shop.02",
+        "southeast_asian.shop.03"
+      ]
+    }
+  ],
+  "icons": {
+    "dimsum_dumpling.shop.01": {
+      "src": "dimsum_dumpling/dimsum_dumpling-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "80176bba8cd6c0f737289b7d5f5a70070847c0dee7f3aaa8a08cc9bb68ae5dc6"
+    },
+    "dimsum_dumpling.shop.02": {
+      "src": "dimsum_dumpling/dimsum_dumpling-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "dc82690958914e3d69cad8f461b225e0823c10d3da98edaf52aa353905f99446"
+    },
+    "dimsum_dumpling.shop.03": {
+      "src": "dimsum_dumpling/dimsum_dumpling-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "9e7a03e04d3ebeac282e1007c9eb5b727bcdce5ac8891e22f5a15089997a6966"
+    },
+    "burger.shop.01": {
+      "src": "burger/burger-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "75661ac6e5486e04ef2e4854a47bffea94953ef4dca1fc41d4e29d7b3db0e64d"
+    },
+    "burger.shop.02": {
+      "src": "burger/burger-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "146809448b3bc6aa0437cbb608558ff5a11b18e3ffd51715c36340966d948ea7"
+    },
+    "burger.shop.03": {
+      "src": "burger/burger-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "def86dd40c8b45b3bb4426d7fdbcb9b20e9d5744b1c0c6bff5c3e5571b45f42a"
+    },
+    "pasta_pizza.shop.01": {
+      "src": "pasta_pizza/pasta_pizza-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "4a7addf9067cab51c79a7f13fbab4622a80498fc482cc7492fde627e8ad9faa2"
+    },
+    "pasta_pizza.shop.02": {
+      "src": "pasta_pizza/pasta_pizza-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "f478b5498b992e8a97c8d7cee16392101635df49843bbca789324c64f09c77c3"
+    },
+    "pasta_pizza.shop.03": {
+      "src": "pasta_pizza/pasta_pizza-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "61aba78d4c0b765f97c5b194b6a4372aebbad286cc7b7489f52e8016f59541a8"
+    },
+    "buns.shop.01": {
+      "src": "buns/buns-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "7df505864e6b117805805ead944b7fd0a6c49ed9b48f9e0b6d0565a4c49c9d43"
+    },
+    "buns.shop.02": {
+      "src": "buns/buns-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "450dc6d0a2c8cfcc8c6538750d996e1fb109ababa73d3ce4563152beedd512c1"
+    },
+    "buns.shop.03": {
+      "src": "buns/buns-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "3a08d9492613bdce04dff51519db75416c677ee6974f1d8eef33b450deecae3b"
+    },
+    "fast_meal.shop.01": {
+      "src": "fast_meal/fast_meal-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "6ce25dbfcbcb162c8f470cc3c081957b59a463e43bb30a6ad82c4d3d0bca083a"
+    },
+    "fast_meal.shop.02": {
+      "src": "fast_meal/fast_meal-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "aeb98cd6e17c6079c81922a63e2d598a70a290981de7d45808c35282f135e0b6"
+    },
+    "fast_meal.shop.03": {
+      "src": "fast_meal/fast_meal-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "e466c5f07e0466fe801ce2742d52d7302d6849c3764648be885f59d173f07eec"
+    },
+    "rice_noodles.shop.01": {
+      "src": "rice_noodles/rice_noodles-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "1dcbc6c90e38e3514355243c2a963f5ec5acdc6602f78d13344c9346d9bab02a"
+    },
+    "rice_noodles.shop.02": {
+      "src": "rice_noodles/rice_noodles-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "f0c4ac92e97ef0913958f99a8d9534f225203f340bc6333400ccdaedf3cf257c"
+    },
+    "rice_noodles.shop.03": {
+      "src": "rice_noodles/rice_noodles-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "7af32d103900f3c16aea49df748e78ef3e7f1ad6f77922383138b9b4b33088c5"
+    },
+    "malatang.shop.01": {
+      "src": "malatang/malatang-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "1a42c7cf6cb659e2809a40228727fa54ab3250cef9f8fb2852eebb94a3e2916c"
+    },
+    "malatang.shop.02": {
+      "src": "malatang/malatang-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "530570cbe60b720a19dc0bba17b2fc76f19a825f4f69a5d509b141105f784073"
+    },
+    "malatang.shop.03": {
+      "src": "malatang/malatang-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "b5421de5f8a4ad7cc26f7776cfc27d7499b9b4d184fbaaac3f2f3bbe54d4c904"
+    },
+    "sichuan_hunan.shop.01": {
+      "src": "sichuan_hunan/sichuan_hunan-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "22b51b8f476fdf02ab0f21391860696b82aa42ffb490c17c3ff5167dba326024"
+    },
+    "sichuan_hunan.shop.02": {
+      "src": "sichuan_hunan/sichuan_hunan-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "cf9542a4754e506a4d0193009eeb61306fe7c97c768bdb95e554392816f68485"
+    },
+    "sichuan_hunan.shop.03": {
+      "src": "sichuan_hunan/sichuan_hunan-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "ebcbe97657ce9068ea7561efaec9b1db093a71ed4399dbc4c22ef7ec4eb482b4"
+    },
+    "cantonese.shop.01": {
+      "src": "cantonese/cantonese-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "a09390ea2a000edae69d9c1b80679fd9602e300f8770679e633baf1bebefb48f"
+    },
+    "cantonese.shop.02": {
+      "src": "cantonese/cantonese-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "15d0f056285a901610e9824f3aa2ff9a3c50dd9c8d353b876227caeb4e085544"
+    },
+    "cantonese.shop.03": {
+      "src": "cantonese/cantonese-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "fe9ccd9cc6ae3d6534874d0b92a5bd50eb9de033f8931eb52ebfe1561f9b407d"
+    },
+    "jinghu_lu.shop.01": {
+      "src": "jinghu_lu/jinghu_lu-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "ffe1aab647977acb5e2e16e68de5629eba2e277a987a3add9190ea9ad4b77f4c"
+    },
+    "jinghu_lu.shop.02": {
+      "src": "jinghu_lu/jinghu_lu-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "5dc86daf70ebdd7d81a27f01a3b0ea1b8bdbb36bceddbeae4c351617e78324da"
+    },
+    "jinghu_lu.shop.03": {
+      "src": "jinghu_lu/jinghu_lu-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "63356d3219f1a07165b3cf9be76637cadc4d0986be8df9e098e2d99ceacfb205"
+    },
+    "fried_chicken.shop.01": {
+      "src": "fried_chicken/fried_chicken-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "b514772137dc31c011ac1f65e57e98c1e227db7ef58782f38caed5c2baaff9a2"
+    },
+    "fried_chicken.shop.02": {
+      "src": "fried_chicken/fried_chicken-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "2fc80f5eb5f31cdc883b35947964011d1de6eb11ad6f41c899fb711d563635fb"
+    },
+    "fried_chicken.shop.03": {
+      "src": "fried_chicken/fried_chicken-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "901e9628b38dbffc2c7d575f58daa5f9ff4c5691bdd7f7ba9b536a40a2e95d95"
+    },
+    "snacks.shop.01": {
+      "src": "snacks/snacks-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "fa5e535ef747d6710500ae3e5439bc32d635f5626ecf1ad941e349b600edc257"
+    },
+    "snacks.shop.02": {
+      "src": "snacks/snacks-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "9e0100a0c22f988c682bf43329dd90142a24e708987c4545ca6797f2e7331358"
+    },
+    "snacks.shop.03": {
+      "src": "snacks/snacks-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "3b45e1869e04915d248e820f3aa5ec74be7c6d87c0a2c6ab7e0408bfc41bc956"
+    },
+    "braised_duck.shop.01": {
+      "src": "braised_duck/braised_duck-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "39eb878e0aef8085490b2647ac710e11f8e4ce8b8a21d51f67964e16c53637ec"
+    },
+    "braised_duck.shop.02": {
+      "src": "braised_duck/braised_duck-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "93ccd0b1234b98242d1595f203b8f4a5af99e90ae24aca8d39c20400f0c08334"
+    },
+    "braised_duck.shop.03": {
+      "src": "braised_duck/braised_duck-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "b47459398cffc3e97c27942d1ff76ba6f3835257ab78026344907fcb24762bc3"
+    },
+    "japanese.shop.01": {
+      "src": "japanese/japanese-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "76ed1b624b0ce061adc8983c2489a9ccde62ca162d0d0313e7aa6e0f6eddba47"
+    },
+    "japanese.shop.02": {
+      "src": "japanese/japanese-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "b772b071df9269cdf01ca54bd8ee825bdeaf8c773c19216bf8f9de7b379f4df8"
+    },
+    "japanese.shop.03": {
+      "src": "japanese/japanese-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "4932e1dea0d948dd135c8cbebd6aa1dc8b8f4ced1785115c8bae63e23fbeed26"
+    },
+    "korean.shop.01": {
+      "src": "korean/korean-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "7c5c147d1314414c654a9356d51ae7425cbb62b12479d3b23167748172f8daad"
+    },
+    "korean.shop.02": {
+      "src": "korean/korean-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "24648e1b920ac251ca14a2f3018a2bef28140014109fb5f215aa6734f9a57363"
+    },
+    "korean.shop.03": {
+      "src": "korean/korean-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "925ed7163ef14455484fcacafba16d5ffca90d408335a356c04b8ba7591df149"
+    },
+    "dry_pot.shop.01": {
+      "src": "dry_pot/dry_pot-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "c2b7d885b4e8b5e4f2e4dbdc53a0a24e0216b05cb6458ef8f2622127cee95ea7"
+    },
+    "dry_pot.shop.02": {
+      "src": "dry_pot/dry_pot-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "f1e3361b4540c830e59ddcec93b56852afbbdf5a3babea84abdf9bb438cd6b1e"
+    },
+    "dry_pot.shop.03": {
+      "src": "dry_pot/dry_pot-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "52aced1b5a7682131fa52396217f9e6f56c9309328abe95f0462e78f9b4a6830"
+    },
+    "hotpot.shop.01": {
+      "src": "hotpot/hotpot-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "77c057b1b6c8697c3abaa48402576e23e7345751abb3df76dd0477cfedd8b34c"
+    },
+    "hotpot.shop.02": {
+      "src": "hotpot/hotpot-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "9e085cfef7ca202c46c3a6f7d47fb7c29a48a84cc71a87a0b3653760979cc8a1"
+    },
+    "hotpot.shop.03": {
+      "src": "hotpot/hotpot-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "18976e701dc10429920654e514ef39b485a30f772224fd2e2eca3efc5b2c69bd"
+    },
+    "lobster_bbq.shop.01": {
+      "src": "lobster_bbq/lobster_bbq-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "d865945ed1a24c55dbfaf3fefde54e5d9585a6c0544d63f3871887a365296db7"
+    },
+    "lobster_bbq.shop.02": {
+      "src": "lobster_bbq/lobster_bbq-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "c3cd7ccdaee32bc52e1adb7a4358915a343ddcf15b263571248ac1f7de43b1c3"
+    },
+    "lobster_bbq.shop.03": {
+      "src": "lobster_bbq/lobster_bbq-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "de22ed2b730e1ad12b38f02fd2ab004501cdef15889800892f787b505ecb639b"
+    },
+    "salad.shop.01": {
+      "src": "salad/salad-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "77cb73e766fc68f65f22a0ca62e9001460bee2944e62add7c29e8ea550861ed2"
+    },
+    "salad.shop.02": {
+      "src": "salad/salad-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "21c3c367e09aecebc7a79e2cba251c01d015a10615dcca8a7a5f3fefacd0207f"
+    },
+    "salad.shop.03": {
+      "src": "salad/salad-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "48659e93002739640120d24140bb23c5ad1839b5c1a24bb31635eb5de5fd5b4c"
+    },
+    "milk_tea_juice.shop.01": {
+      "src": "milk_tea_juice/milk_tea_juice-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "f60fdf86a05f34e76f7042f8c7e1cb6f78d114f8ddca69723ffcf59e5c22de6d"
+    },
+    "milk_tea_juice.shop.02": {
+      "src": "milk_tea_juice/milk_tea_juice-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "9b58bfd9a8028e29a463034895a0f6e570f0da337170e0478c0c1aca165b7e3b"
+    },
+    "milk_tea_juice.shop.03": {
+      "src": "milk_tea_juice/milk_tea_juice-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "3eff8049039a79d1d58fcf76528ff42b35ef00cb71748e7feb30ffdf952fad42"
+    },
+    "coffee.shop.01": {
+      "src": "coffee/coffee-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "4dbcef2176878220c5511587c301755e4c2503b1a9284b884bdf3644b2379a1f"
+    },
+    "coffee.shop.02": {
+      "src": "coffee/coffee-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "8b93e58057c31f63fe399f19066da16689c193466fb3aa3a50fb2397723175a4"
+    },
+    "coffee.shop.03": {
+      "src": "coffee/coffee-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "a6c5f8fcf36c99ba8cf13d8b0a3c77a22d613c2319dfc4b9be2ee5860d862dcf"
+    },
+    "bakery_pastry.shop.01": {
+      "src": "bakery_pastry/bakery_pastry-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "53dbb3f7878aeb8c0c7854d9a6440eebeb21deceaf3e5d2deeed8106bd53459c"
+    },
+    "bakery_pastry.shop.02": {
+      "src": "bakery_pastry/bakery_pastry-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "5fe2f2b1863dba3d3132809d1226d8594705d2baf12a760284cf1c336fdb180a"
+    },
+    "bakery_pastry.shop.03": {
+      "src": "bakery_pastry/bakery_pastry-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "1e19d2f7a61a88e434db0cab1e05af9d8a65489e95023c1c34983b4408cfa730"
+    },
+    "dessert.shop.01": {
+      "src": "dessert/dessert-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "4a4f64f90a66ad059975ad481effcd06e9c7185f1d7371b362aa4c2c862e236d"
+    },
+    "dessert.shop.02": {
+      "src": "dessert/dessert-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "9fc0fdf7afd7cce58d7cfd30f6f339cce91db319ddaf8909150f88b1656ffc66"
+    },
+    "dessert.shop.03": {
+      "src": "dessert/dessert-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "a915ca773dcde4bed78e4881913c408843e047fd561e3ad6b44710c3ff4f124a"
+    },
+    "south_asian.shop.01": {
+      "src": "south_asian/south_asian-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "fb8429f1bdd495d2d851835d6c8ac48a495acc73be32c3bd493ac1272b0addb6"
+    },
+    "south_asian.shop.02": {
+      "src": "south_asian/south_asian-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "7a4780e5f8a7a8b008c9f631474aa7fcc8f26ddffca890bddf852ff507b723dc"
+    },
+    "south_asian.shop.03": {
+      "src": "south_asian/south_asian-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "b3209e6edad9dd1cd855dc4f64c6f498b90d4fe605f1f6d2d984a697bdf3c232"
+    },
+    "southeast_asian.shop.01": {
+      "src": "southeast_asian/southeast_asian-shop-01.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "10f2a132877507e9b4821904d397c463b859633ac6ba84df9d8e221f54ed0936"
+    },
+    "southeast_asian.shop.02": {
+      "src": "southeast_asian/southeast_asian-shop-02.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "f24692683424b6d5a822a30229f0261cc6b41eb08ec9a970f3fe3339e869cb6f"
+    },
+    "southeast_asian.shop.03": {
+      "src": "southeast_asian/southeast_asian-shop-03.png",
+      "width": 128,
+      "height": 128,
+      "pixelRatio": 2,
+      "anchor": "bottom",
+      "sdf": false,
+      "sha256": "fabaeaa23b730e919d36879614039ef0b82788379aa2fe25a18b11f1a83871d2"
+    }
+  },
+  "aliases": {
+    "cuisines": {
+      "thai": "southeast_asian",
+      "vietnamese": "southeast_asian",
+      "indian": "south_asian",
+      "noodles": "rice_noodles",
+      "congee": "fast_meal",
+      "dimsum": "dimsum_dumpling",
+      "cafe": "coffee",
+      "bakery": "bakery_pastry",
+      "western": "pasta_pizza",
+      "other": "snacks"
+    },
+    "icons": {
+      "food-hotpot": "hotpot.shop.01",
+      "food-coffee": "coffee.shop.01",
+      "food-noodles": "rice_noodles.shop.01",
+      "food-thai": "southeast_asian.shop.01",
+      "food-vietnamese": "southeast_asian.shop.01",
+      "food-western": "pasta_pizza.shop.01",
+      "thai.shop.01": "southeast_asian.shop.01",
+      "thai.shop.02": "southeast_asian.shop.02",
+      "thai.shop.03": "southeast_asian.shop.03",
+      "vietnamese.shop.01": "southeast_asian.shop.01",
+      "vietnamese.shop.02": "southeast_asian.shop.02",
+      "vietnamese.shop.03": "southeast_asian.shop.03",
+      "indian.shop.01": "south_asian.shop.01",
+      "indian.shop.02": "south_asian.shop.02",
+      "indian.shop.03": "south_asian.shop.03",
+      "noodles.shop.01": "rice_noodles.shop.01",
+      "noodles.shop.02": "rice_noodles.shop.02",
+      "noodles.shop.03": "rice_noodles.shop.03",
+      "congee.shop.01": "fast_meal.shop.01",
+      "congee.shop.02": "fast_meal.shop.02",
+      "congee.shop.03": "fast_meal.shop.03",
+      "dimsum.shop.01": "dimsum_dumpling.shop.01",
+      "dimsum.shop.02": "dimsum_dumpling.shop.02",
+      "dimsum.shop.03": "dimsum_dumpling.shop.03",
+      "cafe.shop.01": "coffee.shop.01",
+      "cafe.shop.02": "coffee.shop.02",
+      "cafe.shop.03": "coffee.shop.03",
+      "bakery.shop.01": "bakery_pastry.shop.01",
+      "bakery.shop.02": "bakery_pastry.shop.02",
+      "bakery.shop.03": "bakery_pastry.shop.03",
+      "western.shop.01": "pasta_pizza.shop.01",
+      "western.shop.02": "pasta_pizza.shop.02",
+      "western.shop.03": "pasta_pizza.shop.03",
+      "other.shop.01": "snacks.shop.01",
+      "other.shop.02": "snacks.shop.02",
+      "other.shop.03": "snacks.shop.03"
+    }
+  },
+  "overlays": {
+    "rating-1": {
+      "src": "overlays/rating-1.png",
+      "width": 64,
+      "height": 64,
+      "pixelRatio": 2,
+      "anchor": "center",
+      "sdf": false,
+      "sha256": "8b2c6856d0a7d180164aa6ba2de1800c4d2bc95675109769220b4a1e9a85910f"
+    },
+    "rating-2": {
+      "src": "overlays/rating-2.png",
+      "width": 64,
+      "height": 64,
+      "pixelRatio": 2,
+      "anchor": "center",
+      "sdf": false,
+      "sha256": "e2f8b5ad69bd8712dc3c80c40464bff5bcedfd5b9fbd28549852c93ae1ab1642"
+    },
+    "rating-3": {
+      "src": "overlays/rating-3.png",
+      "width": 64,
+      "height": 64,
+      "pixelRatio": 2,
+      "anchor": "center",
+      "sdf": false,
+      "sha256": "0ef555ac60b3caae01474cfd351f86c9e9d2e8d01224c4b5f1f9ecec01bd4e05"
+    },
+    "rating-4": {
+      "src": "overlays/rating-4.png",
+      "width": 64,
+      "height": 64,
+      "pixelRatio": 2,
+      "anchor": "center",
+      "sdf": false,
+      "sha256": "f03cf5613e507bc9ae4da7b93879e24f03e06dbe5f8c715be323e05e70f8e975"
+    },
+    "rating-5": {
+      "src": "overlays/rating-5.png",
+      "width": 64,
+      "height": 64,
+      "pixelRatio": 2,
+      "anchor": "center",
+      "sdf": false,
+      "sha256": "40047c127f098568a57744309cadcd7c344fe20f5f29b56f50c95ae4e01775aa"
+    },
+    "bookmark-badge": {
+      "src": "overlays/bookmark-badge.png",
+      "width": 64,
+      "height": 64,
+      "pixelRatio": 2,
+      "anchor": "center",
+      "sdf": false,
+      "sha256": "3f856d2c548a7680e2a8140e938b0597120a1fdadc4a46c853e6bb6e1afe0775"
+    },
+    "avoid-badge": {
+      "src": "overlays/avoid-badge.png",
+      "width": 64,
+      "height": 64,
+      "pixelRatio": 2,
+      "anchor": "center",
+      "sdf": false,
+      "sha256": "ee6322424958115af0b8b63f314c683012c4db370ceeb4bd6a79e79dc7e81f19"
+    }
+  },
+  "provenance": {
+    "kind": "project-authored-ai-assisted-raster",
+    "generator": "OpenAI built-in image generation delegated to Luna Medium",
+    "generatedAt": "2026-09-01T03:15:00+08:00",
+    "license": "Project-owned; no third-party artwork embedded",
+    "derivation": "Cuisine-specific game icons created from the confirmed V1 cuisine/icon contract, with the accepted dimsum trio as the style reference; user-approved assets were adopted without further art-direction changes."
+  }
+}
